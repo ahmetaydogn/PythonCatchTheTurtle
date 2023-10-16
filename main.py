@@ -2,6 +2,8 @@ import turtle
 from random import randint
 import time
 
+# Biraz karışık bi kod oldu hızlı bitirmeye çalıştım bir iki gün sonra dönüp daha iyi hale getiricem
+# today 16.10.2023
 
 isTurtleClicked = False
 
